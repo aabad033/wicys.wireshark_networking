@@ -11,7 +11,7 @@ The goal of this workshop is to provide a hands-on introduction to:
 ---
 
 ### 📂 Workshop
-* **[Module 1: Foundations & First Capture](./module_1.md)**: Setup, the 5-layer model, and capturing your first HTTP packet.
+* **[Module 1: Foundations & First Capture](./001.Getting_Started/module_1.md)**: Setup, the 5-layer model, and capturing your first HTTP packet.
 
 ---
 
