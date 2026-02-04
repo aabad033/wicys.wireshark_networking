@@ -6,7 +6,7 @@ Networking is the process of connecting computers (or other devices) to exchange
 What are Hosts?
 A host is any hardware device or computer system that connects to a network and can send or receive data
 
-![Exsample of Users and Host](../images/network_of_computers.png)
+![Exsample of Users and Host](../images/network-of-computers.png)
 
 What is a packet?
 Small chunks of data sent over a network (not the whole message at once).
