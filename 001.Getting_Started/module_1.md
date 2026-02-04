@@ -3,7 +3,7 @@
 ### 1. What is Networking?
 Networking is the process of connecting computers (or other devices) to exchange data. For devices to communicate, they require a guide or standard to ensure they are speaking the same "language".
 
-[Image of 5-layer network model]
+![5 Layer Network Model](images/5-Layer-Model.jpeg)
 
 We utilize the **5-Layer Model** to break down these communication standards:
 * **Application**: The user interface/protocol (e.g., your browser).
