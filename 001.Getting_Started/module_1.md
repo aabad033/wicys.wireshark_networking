@@ -3,7 +3,18 @@
 ### 1. What is Networking?
 Networking is the process of connecting computers (or other devices) to exchange data. For devices to communicate, they require a guide or standard to ensure they are speaking the same "language".
 
+What are Hosts?
+A host is any hardware device or computer system that connects to a network and can send or receive data
 
+![Exsample of Users and Host](../images/network_of_computers.png)
+
+What is a packet?
+Small chunks of data sent over a network (not the whole message at once).
+
+TCP and UDP?
+These are protocals that computers and software used to comunicate between each other.
+
+![TCP and UDP](../images/TCP-vs-UDP.png)
 
 We utilize the **5-Layer Model** to break down these communication standards:
 * **Application**: The user interface/protocol (e.g., your browser).
